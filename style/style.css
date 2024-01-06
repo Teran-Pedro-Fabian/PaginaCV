@@ -21,3 +21,8 @@ img {
 footer{
     margin-top: auto;
 }
+
+nav ul{
+    display:  flex;
+    flex-wrap: wrap;
+}
