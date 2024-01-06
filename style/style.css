@@ -3,6 +3,7 @@
     padding: 0;
     display: flex;
     flex-direction: column;
+    
 }
 head{
     display: none;
@@ -10,7 +11,9 @@ head{
 body{
     min-height: 100vh;
 }
-
+header{
+    background-color: lightblue;
+}
 img {
     max-width: 20%;
 }
